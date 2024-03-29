@@ -1,2 +1,4 @@
-# my_tb3
-## learnGit
+# learnGit
+git add .
+git commit -m ""
+git push
